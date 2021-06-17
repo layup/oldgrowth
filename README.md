@@ -5,15 +5,14 @@ description: An application that can measure the Carbon Emissions caused by old 
 team:  Fighting Mongoose
 ---
 ​
-#1 Introduction  
 
 Just over 13 million hectares of old growth forest remains today in BC and make up around 23% of all forested areas in the province. Our project will go in one of two possible directions: studying old growth forests in BC and modelling and predicting their decay; or, investigating the sustainability and environmental effects of overfishing and fish farming in coastal BC.
 
 British Columbia’s old growth forests are a collapsing ecosystem with historical and current significance to the Indigenous Peoples of the region. Despite old growth forests pulling carbon from the atmosphere at a slower rate than young forests, their carbon stores are immense. When older forests are logged, much of this carbon is released into the atmosphere.
 
-## 1.1 Problem Statement 
+
 ​
-# 
+# Blog Post 
 ​
 I haven't bailed on writing. Look, I'm generating a random paragraph at this very moment in an attempt to get my writing back on track. I am making an effort. I will start writing consistently again!
 ​
