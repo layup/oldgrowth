@@ -12,7 +12,7 @@ British Columbia’s old growth forests are a collapsing ecosystem with historic
 
 
 ​
-# Blog Post 
+# Blog Post Update 
 ​
 I haven't bailed on writing. Look, I'm generating a random paragraph at this very moment in an attempt to get my writing back on track. I am making an effort. I will start writing consistently again!
 ​
