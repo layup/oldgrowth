@@ -1,7 +1,7 @@
 ---
 title: Old Growth Carbon Emissions 
 date: "2021-06-21"
-description:  Project to ... (brief description)
+description: An application that can measure the Carbon Emissions caused by old growth logging 
 team:  Fighting Mongoose
 ---
 ​
