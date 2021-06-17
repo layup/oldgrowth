@@ -1,11 +1,14 @@
 ---
-title: Project1
-date: "2021-06-12"
+title: Old Growth Carbon Emissions 
+date: "2021-06-21"
 description:  Project to ... (brief description)
-team:  Team01
+team:  Fighting Mongoose
 ---
 ​
-I've rented a car in Las Vegas and have reserved a hotel in Twentynine Palms which is just north of Joshua Tree. We'll drive from Las Vegas through Mojave National Preserve and possibly do a short hike on our way down. Then spend all day on Monday at Joshua Tree. We can decide the next morning if we want to do more in Joshua Tree or Mojave before we head back.
+Just over 13 million hectares of old growth forest remains today in BC and make up around 23% of all forested areas in the province. Our project will go in one of two possible directions: studying old growth forests in BC and modelling and predicting their decay; or, investigating the sustainability and environmental effects of overfishing and fish farming in coastal BC.
+
+British Columbia’s old growth forests are a collapsing ecosystem with historical and current significance to the Indigenous Peoples of the region. Despite old growth forests pulling carbon from the atmosphere at a slower rate than young forests, their carbon stores are immense. When older forests are logged, much of this carbon is released into the atmosphere.
+
 ​
 # (For titles (More number of '#' for smaller size))
 ​
