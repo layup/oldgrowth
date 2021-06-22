@@ -25,7 +25,7 @@ I haven't bailed on writing. Look, I'm generating a random paragraph at this ver
 ​
 ​
 ​
-![image](./<img>.jpg)
+![image](./Klawna_valley.png)
 ​
 It was a question of which of the two she preferred. On the one hand,**Italics** the choice seemed simple. The more expensive one with a brand name would be the choice of most. It was the easy choice. The safe choice[url title](http://<url>). But she wasn't sure she actually preferred it.
 ​
