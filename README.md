@@ -49,12 +49,23 @@ rewritten, then they are still using her.
 ​
 ​
 # Data Collection 
-| No.    | Y      | Z |
-| :----- | :---| --: |
-| 1      | ABC | P |
-| 2      | DEF | Q |
-| 3      | GHI | R |
+
+The Vegetation Resource Inventory (VRI) 
+
+| VRI Data name      | Data Description  |
+| :-----             | :---| 
+| Tree Species       | A list of the minor and major tree species in a given layer ordered by percentage | 
+| Tree Cover Pattern | A numeric code that identifies the spatial distribution of the tree layer  | 
+| Forest Cover Age Class | The age class projected to the current year for a given species based on area  | 
+| Land Cover           | Identities a type of land cover  | 
+| Disturbance History  | Describe how an area became this way, we can use it to determine if this area has been logged and what percentage of this area has been logged  | 
+
+
 ​
 
 
 # Old Growth Carbon Emissions Calculator  
+
+In the future, we hope to generate an overall carbon emission report that can be calculated using Sentinel-2 and VRI data. Sentinel-2 can provide information about the area we’re trying to examine, with this we can cross-reference the VRI data for subplots within these given test sites to determine the tree species within this subplot. To calculate our carbon emissions report for a given test site we first need to calculate how much carbon a certain species of tree (ST) can capture in their lifetime. Afterwards, we need to determine the average age of that tree species (AT), the percentage that this given species of tree occupies (PT). All this information is provided to us from the VRI dataset. From here determine all the other tree species (TS)  and the overall area we are examining and enter it into Formula 01 below.
+
+> (PT x ST x AT) x TS x Area 
