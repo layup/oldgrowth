@@ -25,7 +25,19 @@ I haven't bailed on writing. Look, I'm generating a random paragraph at this ver
 ​
 ​
 ​
+## Test Sites 
+
+### Fairy Creek 
+
+
+### Klanawa Valley 
 ![image](./Klawna_valley.png)
+
+
+### Nahmint Valley
+![image](./nahmit.png)
+![image](./nahmit_time.png)
+
 
 ​
 It was a question of which of the two she preferred. On the one hand,**Italics** the choice seemed simple. The more expensive one with a brand name would be the choice of most. It was the easy choice. The safe choice[url title](http://<url>). But she wasn't sure she actually preferred it.
@@ -48,7 +60,7 @@ rewritten, then they are still using her.
 3.  def
 ​
 ​
-# Data Collection 
+## Data Collection 
 
 The Vegetation Resource Inventory (VRI) 
 
@@ -64,7 +76,7 @@ The Vegetation Resource Inventory (VRI)
 ​
 
 
-# Old Growth Carbon Emissions Calculator  
+## Old Growth Carbon Emissions Calculator  
 
 
 We are generating an overall carbon emission report that is calculated using Sentienel-2 and VRI data.To calculate our carbon emissions report for a given test site we first need to calculate how much carbon a certain species of tree (ST) can capture in their lifetime. Afterwards, we need to determine the average age of that tree species (AT), the percentage that this given species of tree occupies (PT). All this information is provided to us from the VRI dataset. From here determine all the other tree species (TS) and the overall area. 
