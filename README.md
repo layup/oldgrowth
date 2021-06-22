@@ -47,10 +47,13 @@ rewritten, then they are still using her.
 3.  def
 ​
 ​
-# Display in a tabular format
+# Data Collection 
 | No.    | Y      | Z |
 | :----- | :---| --: |
 | 1      | ABC | P |
 | 2      | DEF | Q |
 | 3      | GHI | R |
 ​
+
+
+# Metric 
