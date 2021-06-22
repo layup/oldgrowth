@@ -28,37 +28,20 @@ I haven't bailed on writing. Look, I'm generating a random paragraph at this ver
 ## Test Sites 
 
 ### Fairy Creek 
-
+Fairy Creek, located northeast of Port Renfrew on Pacheedaht territory, is one of the last unlogged old growth forests on southern Vancouver Island. Even though the small area known as Fairy Creek is currently unlogged, the surrounding forests have been heavily clearcut
+![fairycreek](./fairycreek.png)
 
 ### Klanawa Valley 
+The Klanawa Valley, located on southern Vancouver Island, was an old growth forest that has been previously logged. We hoped to gather and examine the data of already-logged sites such as this to help determine the carbon emission impact that is left behind once the forest has been destroyed. 
 ![image](./Klawna_valley.png)
 
 
 ### Nahmint Valley
+The Nahmint Valley is another previously-logged area of southern Vancouver Island, near the town of Port Alberni. It is home to many species that can only survive in ancient forests, making it a critical area for our study. 
+![nahmint](./nahmint_time.png)
 ![nahmint](./nahmint.png)
 
 
-​
-It was a question of which of the two she preferred. On the one hand,**Italics** the choice seemed simple. The more expensive one with a brand name would be the choice of most. It was the easy choice. The safe choice[url title](http://<url>). But she wasn't sure she actually preferred it.
-​
-### Any smaller font title
-​
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
-​
-> To highlight at the side
-> Content
-> Content
-​
-​
-1.  Anything to be numbered
-2.  abc
-3.  def
-​
-​
 ## Data Collection 
 
 The Vegetation Resource Inventory (VRI) 
