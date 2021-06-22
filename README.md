@@ -14,16 +14,12 @@ British Columbia’s old growth forests are a collapsing ecosystem with historic
 ​
 # Blog Post Update 
 ​
-I haven't bailed on writing. Look, I'm generating a random paragraph at this very moment in an attempt to get my writing back on track. I am making an effort. I will start writing consistently again!
-​
-- (If you have to mention in points)
-- abcdef
-  - ghijk
-  - lmno
-* pqrst
-* uvw
-​
-​
+Climate change is an issue that is both very real and very dangerous. For more than 20 years scientists have been warning of the dangers of our increased carbon emissions, but governments are still not taking action. Canada is in the top ten countries for GHG emissions per capita, with our government failing every single climate goal it has promised to meet over the past 20 years. The most recent example of this government failure is the logging of old growth in Fairy Creek.
+ 
+With our emissions still not in decline, carbon sinks (sources of carbon sequestration) are vital to our continued existence on earth. One of the most important carbon sinks we have is right here in B.C. Old growth forests pull carbon dioxide from the atmosphere and “the sequestered carbon dioxide is stored in live woody tissues and slowly decomposing organic matter in litter and soil” [1]. Not only does old growth logging releases the stored carbon, but it also removes invaluable carbon sequestration resources when we are in the greatest need of carbon sinks.
+ 
+The goal of our project is to bring light to the importance of old growth forests as a resource for combating climate change. We plan to do this by creating metrics and indicators that clearly illustrate the effects old growth forests have on carbon emissions.
+
 ​
 ## Test Sites 
 
