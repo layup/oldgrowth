@@ -35,8 +35,7 @@ I haven't bailed on writing. Look, I'm generating a random paragraph at this ver
 
 
 ### Nahmint Valley
-![image](./nahmit.png)
-![image](./nahmit_time.png)
+![nahmint](./nahmint.png)
 
 
 ​
