@@ -66,6 +66,14 @@ The Vegetation Resource Inventory (VRI)
 
 # Old Growth Carbon Emissions Calculator  
 
-In the future, we hope to generate an overall carbon emission report that can be calculated using Sentinel-2 and VRI data. Sentinel-2 can provide information about the area we’re trying to examine, with this we can cross-reference the VRI data for subplots within these given test sites to determine the tree species within this subplot. To calculate our carbon emissions report for a given test site we first need to calculate how much carbon a certain species of tree (ST) can capture in their lifetime. Afterwards, we need to determine the average age of that tree species (AT), the percentage that this given species of tree occupies (PT). All this information is provided to us from the VRI dataset. From here determine all the other tree species (TS)  and the overall area we are examining and enter it into Formula 01 below.
 
-> (PT x ST x AT) x TS x Area 
+We are generating an overall carbon emission report that is calculated using Sentienel-2 and VRI data.To calculate our carbon emissions report for a given test site we first need to calculate how much carbon a certain species of tree (ST) can capture in their lifetime. Afterwards, we need to determine the average age of that tree species (AT), the percentage that this given species of tree occupies (PT). All this information is provided to us from the VRI dataset. From here determine all the other tree species (TS) and the overall area. 
+
+(PT x ST x AT) x TS x Area 
+
+ST =  Species of tree
+AT =  Average age of tree species
+PT = Percentage tree species occupies
+TS =  All other tree species
+
+
